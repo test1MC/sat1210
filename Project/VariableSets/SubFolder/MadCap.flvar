@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet>
+    <Variable Comment="" Name="Nested CompanyName" EvaluatedDefinition="MadCap Software Nested">MadCap Software Nested</Variable>
+    <Variable Comment="" Name="Nested PhoneNumber" EvaluatedDefinition="858 123 4567 Nested">858 123 4567 Nested</Variable>
+</CatapultVariableSet>

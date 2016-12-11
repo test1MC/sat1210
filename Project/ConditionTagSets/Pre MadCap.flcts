@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultConditionTagSet>
+    <ConditionTag Comment="" Name="Pre ScreenOnly" BackgroundColor="#A288E3" />
+    <ConditionTag Comment="" Name="Pre PrintOnly" BackgroundColor="#CCFFCB" />
+</CatapultConditionTagSet>

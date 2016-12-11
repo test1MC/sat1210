@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet>
+    <Variable Comment="" Name="Post Name Nested" EvaluatedDefinition="Post Nested">Post Nested</Variable>
+    <Variable Comment="" Name="Post Phone Nested" EvaluatedDefinition="858 123 4567 Post Nested">858 123 4567 Post Nested</Variable>
+</CatapultVariableSet>

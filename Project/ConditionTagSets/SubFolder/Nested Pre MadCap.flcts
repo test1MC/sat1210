@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultConditionTagSet>
+    <ConditionTag Comment="" Name="Nested Pre ScreenOnly" BackgroundColor="#E54B4B" OriginalName="Nested Pre ScreenOnly" />
+    <ConditionTag Comment="" Name="Nested Pre PrintOnly" BackgroundColor="#1E1E24" OriginalName="Nested Pre PrintOnly" />
+</CatapultConditionTagSet>

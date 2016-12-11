@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet>
+    <Variable Comment="" Name="BBName" EvaluatedDefinition="A Software">BB Software</Variable>
+    <Variable Comment="" Name="BBNumber" EvaluatedDefinition="858 123 4567 A">858 123 4567 BB</Variable>
+</CatapultVariableSet>

@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet>
+    <Variable Comment="" Name="Pre Name" EvaluatedDefinition="Pre">Pre</Variable>
+    <Variable Comment="" Name="Pre Phone" EvaluatedDefinition="858 123 4567 Pre">858 123 4567 Pre</Variable>
+</CatapultVariableSet>
